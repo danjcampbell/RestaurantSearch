@@ -14,3 +14,7 @@ name and cuisine type
 
 
 Running the application: 
+From the root of RestaurantSearch run docker-compose up -d, this will bring up the app on localhost:8080
+
+From the root of RestaurantSearchGUI run npm start, this will bring up the app on localhost:3000
+
